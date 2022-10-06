@@ -4,3 +4,14 @@ voila-material @ git+https://github.com/GLAM-Workbench/voila-material.git
 pandas
 requests
 altair
+python-slugify
+SPARQLWrapper
+rdflib
+python-dotenv
+datasette
+sqlite-utils
+jinja2==3.0.3
+requests-cache
+tqdm
+ipywidgets
+matplotlib-venn

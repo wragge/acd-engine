@@ -3,3 +3,6 @@
 .ipynb_checkpoints
 requirements-tocheck.in
 dev-requirements.txt
+datasette
+http_cache.sqlite
+*datasette.json
